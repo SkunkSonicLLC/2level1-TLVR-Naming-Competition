@@ -33,6 +33,6 @@ While the naming process unfolds, we are actively developing the MVP package of 
 
 About 2level1
 This initiative is part of 2level1, a movement dedicated to leveling the playing field through decentralized governance, creative empowerment, and equitable innovation.
-📜 **Read the full truthPrintz spec:** [truthPrintz Full Spec (PDF)](https://github.com/SkunkSonicLLC/2level1-TLVR-Naming-Competition/blob/main/truthPrintzFullSpec-03072025.pdf)
+📜 **Read the full truthPrintz spec:** [truthPrintz Full Spec (PDFs)]([https://github.com/SkunkSonicLLC/2level1-TLVR-Naming-Competition/blob/main/truthPrintzFullSpec-03072025.pdf](https://github.com/SkunkSonicLLC/2level1-TLVR-Naming-Competition))
 
 For inquiries or collaboration opportunities, reach out here: [criticalThinking | truthPrintz]
